@@ -1,0 +1,5 @@
+debug/*
+*.o
+*.d
+OpenV2G.exe
+!.gitkeep
